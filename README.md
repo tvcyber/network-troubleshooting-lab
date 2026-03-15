@@ -1,17 +1,17 @@
-#Network Troubleshooting Lab
+# Network Troubleshooting Lab
 
-##Objective
+## Objective
 
 Practice basic network troubleshooting techniques used in IT Help Desk roles.
 
 ---
 
-###Tools Used
+## Tools Used
 
 -Windows Command Prompt
--ipconfig
--ping
--tracert
+-'ipconfig'
+-'ping'
+-'tracert'
 
 ---
 
